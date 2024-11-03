@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demogithub", "demogithub\de
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sdgsgd", "sdgsgd\sdgsgd.csproj", "{07449ACA-675F-4870-B5A4-5F793D86E092}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bra", "bra\bra.csproj", "{E06BBAC0-6D67-4C3F-AF75-24DFEB1254EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{07449ACA-675F-4870-B5A4-5F793D86E092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07449ACA-675F-4870-B5A4-5F793D86E092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07449ACA-675F-4870-B5A4-5F793D86E092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06BBAC0-6D67-4C3F-AF75-24DFEB1254EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06BBAC0-6D67-4C3F-AF75-24DFEB1254EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06BBAC0-6D67-4C3F-AF75-24DFEB1254EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06BBAC0-6D67-4C3F-AF75-24DFEB1254EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
